@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Spring MVC with xml based configrations.</title>
+<title>Spring MVC with java configrations.</title>
 </head>
 <body>
 <p>Welcome Learner
